@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietromarianopolicarpo1802-art&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromarianopolicarpo1802-art&layout=compact&theme=radical)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,php,mysql,nodejs,git,github,linux,docker,aws,ubuntu,vim,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamepietromarianopolicarpo1802-art=&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietromarianopolicarpo1802-art=&theme=react-dark)
 
 </div>
 
