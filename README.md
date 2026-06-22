@@ -35,30 +35,12 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamepietromarianopolicarpo1802-art=&theme=react-dark)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-### 📌 Project 1
-Description of your project.
-
-🔗 Repository: https://github.com/SEU_USUARIO/projeto1
-
-### 📌 Project 2
-Description of your project.
-
-🔗 Repository: https://github.com/SEU_USUARIO/projeto2
-
-### 📌 Project 3
-Description of your project.
-
-🔗 Repository: https://github.com/SEU_USUARIO/projeto3
-
----
 
 ## 🌐 Connect with Me
 
