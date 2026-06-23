@@ -1,67 +1,72 @@
-# Hi 👋! My name is Pietro Policarpo and I'm a Programming Student from Brazil 🇧🇷
-
-## 🚀 About Me
-
-💻 Programming Student  
-🎯 Focused on Web Development and Software Engineering  
-📚 Always learning new technologies  
-🌎 Based in Brazil
+## Olá 👋! Meu nome é Pietro Policarpo e sou um estudante de Programação do Brasil 🇧🇷
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Sobre mim
+
+💻 Estudante de Programação
+
+🎯 Focado em Desenvolvimento Web e Engenharia de Software
+
+📚 Sempre aprendendo novas tecnologias
+
+🌎 Residente no Brasil
+
+🚀 Buscando aprimorar minhas habilidades em programação e desenvolvimento de software
+
+💡 Interessado em criar projetos inovadores e solucionar problemas através da tecnologia
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietromarianopolicarpo1802-arte&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromarianopolicarpo1802-arte&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietropolicarpo\&show_icons=true)
 
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Principais Linguagens
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pietropolicarpo\&layout=compact)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🛠️ Tecnologias e Ferramentas
+
+* C++
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Visual Studio Code
+* MySQL
+
+---
+
+## 📈 Gráfico de Contribuição
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietromarianopolicarpo1802-arte&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietropolicarpo)
 
 </div>
 
 ---
 
+## 🌐 Conecte-se comigo
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/pietromarianopolicarpo1802-arte">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+* GitHub: https://github.com/pietropolicarpo
 
 ---
 
-<div align="center">
+## 👨‍💻
 
-### 👨‍💻 "Code, Learn, Build, Repeat."
-
-</div>
+> **"Programar, Aprender, Construir, Repetir."**
