@@ -1,4 +1,9 @@
-## Olá 👋! Meu nome é Pietro Policarpo e sou um estudante de Programação do Brasil 🇧🇷
+<h1 align="center">Olá 👋, eu sou Pietro Policarpo</h1>
+<h3 align="center">💻 Estudante de Programação | 🌎 Brasil 🇧🇷</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pietromarianopolicarpo1802-art&label=Visualizações&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
@@ -12,9 +17,9 @@
 
 🌎 Residente no Brasil
 
-🚀 Buscando aprimorar minhas habilidades em programação e desenvolvimento de software
+💡 Apaixonado por tecnologia, programação e desenvolvimento de projetos.
 
-💡 Interessado em criar projetos inovadores e solucionar problemas através da tecnologia
+🎯 Objetivo: Evoluir constantemente e construir soluções que façam a diferença.
 
 ---
 
@@ -22,49 +27,79 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietromarianopolicarpo1802-arte\&show_icons=true\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietromarianopolicarpo1802-art&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietromarianopolicarpo1802-art&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 💻 Principais Linguagens
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromarianopolicarpo1802-arte\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pietromarianopolicarpo1802-art&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+[![Pietro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pietromarianopolicarpo1802-art&theme=tokyo-night)](https://github.com/pietromarianopolicarpo1802-art)
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql"/>
+
+</p>
 
 ---
 
-## 📈 Gráfico de Contribuição
+## 📚 Atualmente estudando
 
-<div align="center">
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 💻 C++
+- 🗄️ Banco de Dados
+- 🖥️ Interfaces Web
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietromarianopolicarpo1802-arte\&theme=tokyo-night)
+---
 
-</div>
+## 📂 Meus Repositórios
+
+📚 Programação e Algoritmo
+
+🌐 Interfaces Web
+
+🗄️ Banco de Dados
+
+🎨 Artes Digitais
+
+💡 PTIC
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-* GitHub: https://github.com/pietromarianopolicarpo1802-arte
+<p align="left">
+<a href="https://github.com/pietromarianopolicarpo1802-art" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻
+<div align="center">
 
-> **"Programar, Aprender, Construir, Repetir."**
+### 👨‍💻 "Programar, Aprender, Construir, Repetir."
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
